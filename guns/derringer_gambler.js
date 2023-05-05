@@ -1,4 +1,3 @@
-/eval
 const swap = -992264861;
 const swapon = 1053179219;
 const gun = -2082646505;
